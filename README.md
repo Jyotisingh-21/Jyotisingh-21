@@ -10,7 +10,7 @@
 
 ### 💡 About Me
 
-Hey there! I'm Jyoti, a first-year B.Tech student at IGDTUW, pursuing a degree in Computer Science and Artificial Intelligence. I am passionate about technology and AI and excited to explore the world of coding, machine learning, and data science.
+Hey there! I'm Jyoti, a B.Tech student at IGDTUW, pursuing a degree in Computer Science and Artificial Intelligence. I am passionate about technology and AI and excited to explore the world of coding, machine learning, and data science.
 
 Currently, I'm focused on building my skills in programming and working on small projects to enhance my knowledge. I love exploring new tools and technologies to keep myself updated in the rapidly evolving tech world.
 
